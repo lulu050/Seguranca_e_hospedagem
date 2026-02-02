@@ -4,10 +4,10 @@ Imagine um restaurante. Existem três figuras: o **Cliente**, o **Garçom** (que
 
 Associe as ações abaixo com **Request (Pedido)** ou **Response (Resposta)**:
 
-1. Você escolhe a pizza e fala para o garçom: ___________
-2. O cozinheiro prepara a pizza e o garçom traz até a sua mesa: ___________
-3. Você pergunta se tem refrigerante gelado: ___________
-4. O garçom volta e diz que o refrigerante acabou: ___________
+1. Você escolhe a pizza e fala para o garçom: Request
+2. O cozinheiro prepara a pizza e o garçom traz até a sua mesa: Response
+3. Você pergunta se tem refrigerante gelado: Request
+4. O garçom volta e diz que o refrigerante acabou: Response
 
 ---
 
@@ -16,11 +16,10 @@ Associe as ações abaixo com **Request (Pedido)** ou **Response (Resposta)**:
 Na arquitetura Cliente/Servidor, os dados ficam guardados no Servidor. Pense no **Instagram**:
 
 1. Se você desinstalar o Instagram do seu celular e instalar em um celular novo, suas fotos somem ou continuam lá?
-2. **Por que isso acontece?**
+ continuam la
+3. **Por que isso acontece?**
 * (A) Porque as fotos ficam guardadas no seu celular (Cliente).
-* (B) Porque as fotos ficam guardadas nos computadores do Instagram (Servidor).
-
-
+* (B) Porque as fotos ficam guardadas nos computadores do Instagram (Servidor).<<<<<xxxx
 
 ---
 
